@@ -1,4 +1,7 @@
+
 Train search details - 
 Train A - Noida sector 62 to barelly
 Train B - Noida to Delhi 
 Train C- Noida to Ajmer 
+Ticket Booking- Passenger Seat Confirmed.
+ticket-booking
